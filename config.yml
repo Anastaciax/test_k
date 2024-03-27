@@ -1,0 +1,6 @@
+development:
+  password: shptka_3bf964f4026b4ec6d5d7dc070303f95e
+  theme_id: 136545730717
+  store: 83139e-53.myshopify.com
+  ignore_files:
+    - templates/collection.json.liquid
